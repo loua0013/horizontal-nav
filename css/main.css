@@ -16,7 +16,7 @@ header {
 }
 
 h1 {
-  font-family: "Bevan", serif;
+  font-family: "Bevan", cursive;
   color: #fff;
   font-size: 1.5rem;
   display: block;
@@ -25,14 +25,14 @@ h1 {
 
 a {
   color: #fff;
-  font-size: 0.8rem;
+  font-size: .8rem;
   font-weight: normal;
   text-decoration: none;
 }
 
 nav a {
   display: inline-block;
-  padding: 0.5em 0.75em;
+  padding: .5em .75em;
   text-align: center;
 }
 
@@ -40,7 +40,7 @@ nav li {
   display: inline-block;
   text-align: center;
   background-color: #713837;
-  padding: 0.5em 0.75em;
+  padding: .5em .75em;
   margin: .3em;
   border-radius: 10px;
 }
