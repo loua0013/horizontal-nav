@@ -11,6 +11,7 @@ html {
 
 body {
   background-color: #dbd6cf;
+  margin: .3em;
 }
 
 header {
@@ -43,7 +44,6 @@ nav li {
   display: inline-block;
   text-align: center;
   background-color: #713837;
-  margin: .3em;
   border-radius: 10px;
 }
 
