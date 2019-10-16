@@ -11,10 +11,8 @@ html {
 
 body {
   background-color: #dbd6cf;
-  margin-bottom: .3em;
-  margin-top: 0em;
-  margin-left: 0em;
-  margin-right: 0em;
+  margin: .3em 0em 0em 0em;
+
 }
 
 header {
