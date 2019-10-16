@@ -45,6 +45,10 @@ nav li {
   border-radius: 10px;
 }
 
+a:hover {
+  color: #f33;
+}
+
 ol {
   text-decoration: none;
   list-style: none;
