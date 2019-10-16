@@ -11,7 +11,6 @@ html {
 
 body {
   background-color: #dbd6cf;
-  margin: .3em;
 }
 
 header {
@@ -21,7 +20,7 @@ header {
 }
 
 h1 {
-  font-family: "Bevan", serif;
+  font-family: Bevan, serif;
   color: #fff;
   font-size: 2rem;
   display: block;
@@ -36,7 +35,7 @@ a {
 
 nav a {
   display: inline-block;
-  padding: .5em .5em;
+  padding: .5em;
   text-align: center;
 }
 
@@ -44,13 +43,13 @@ nav li {
   display: inline-block;
   text-align: center;
   background-color: #713837;
-  padding: .5em .5em;
   margin: .3em;
   border-radius: 10px;
 }
 
 nav li a:hover {
   background-color: #f33;
+  border-radius: 10px;
 }
 
 ul {
