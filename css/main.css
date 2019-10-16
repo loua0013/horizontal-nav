@@ -11,12 +11,13 @@ html {
 
 body {
   background-color: #dbd6cf;
-  margin: .3em;
+  margin-top: .3em;
 }
 
 header {
   background-color: #79756f;
-  border: 3px solid #595652;
+  border-top: 3px solid #595652;
+  border-bottom: 3px solid #595652;
   text-align: center;
 }
 
