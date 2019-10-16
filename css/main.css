@@ -11,6 +11,7 @@ html {
 
 body {
   background-color: #dbd6cf;
+  margin: .3em;
 }
 
 header {
@@ -20,11 +21,10 @@ header {
 }
 
 h1 {
-  font-family: 'Bevan', cursive;
+  font-family: "Bevan", cursive;
   color: #fff;
   font-size: 2rem;
   display: block;
-  margin: .3em;
 }
 
 a {
@@ -53,7 +53,7 @@ a:hover {
   color: #f33;
 }
 
-ol {
+ul {
   text-decoration: none;
   list-style-type: none;
 }
