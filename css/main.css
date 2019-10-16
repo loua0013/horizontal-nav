@@ -28,7 +28,7 @@ h1 {
   color: #fff;
   font-size: 2rem;
   display: block;
-  margin-bottom: .3em;
+  margin-bottom: .1em;
 }
 
 a {
@@ -49,6 +49,7 @@ nav li {
   text-align: center;
   background-color: #713837;
   border-radius: 5px;
+  margin-bottom: .3em;
 }
 
 nav li a:hover {
